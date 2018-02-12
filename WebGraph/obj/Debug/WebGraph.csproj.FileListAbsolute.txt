@@ -1,0 +1,6 @@
+c:\users\mack\documents\visual studio 2015\Projects\WebGraph\WebGraph\bin\Debug\WebGraph.exe.config
+c:\users\mack\documents\visual studio 2015\Projects\WebGraph\WebGraph\bin\Debug\WebGraph.exe
+c:\users\mack\documents\visual studio 2015\Projects\WebGraph\WebGraph\bin\Debug\WebGraph.pdb
+c:\users\mack\documents\visual studio 2015\Projects\WebGraph\WebGraph\obj\Debug\WebGraph.csprojResolveAssemblyReference.cache
+c:\users\mack\documents\visual studio 2015\Projects\WebGraph\WebGraph\obj\Debug\WebGraph.exe
+c:\users\mack\documents\visual studio 2015\Projects\WebGraph\WebGraph\obj\Debug\WebGraph.pdb
